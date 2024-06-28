@@ -1,0 +1,19 @@
+body{
+    /* width: 70%; */
+}
+tr{
+    background-color: red;
+}
+button{
+    background: none;
+    border: none;
+    color: #FEAF00 ;
+}
+table{
+    align-items: center;
+   text-align: center;
+   font-size: 14px;
+
+  
+
+}

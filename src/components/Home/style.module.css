@@ -1,0 +1,26 @@
+.container{
+    margin-top: 10px;
+    /* background-color: red; */
+
+}
+.users{
+    background: linear-gradient(110.42deg, #FEAF00 18.27%, #F8D442 91.84%);
+
+}
+.students{
+    background: #F0F9FF;
+
+}
+.card{
+    border-radius: 8px;
+    height: 150px;
+    margin-right: 10px;
+    padding: 20px;
+    /* position: relative; */
+}
+.card h1{
+    float: right;
+    
+
+
+}
